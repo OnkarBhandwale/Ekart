@@ -1,0 +1,2 @@
+# Ekart
+Ecommerce Static Website
